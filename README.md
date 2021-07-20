@@ -8,3 +8,4 @@ In Both CMD and VSCode\
 All Tests succeded, gpg password cache is kept at 1 hour.\
 ### Update
 Currently not working as expected.........
+Run 
