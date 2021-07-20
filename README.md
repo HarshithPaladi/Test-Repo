@@ -1,6 +1,5 @@
 # Test-Repo
 First Testing Repository\
 Hello There 😊
-## Maybe a commit from vscode
-Let's see the status.....\
-About to commit
+## Success in Verified Tag from VSCode
+It's a success 
