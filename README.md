@@ -13,3 +13,6 @@ Trying to add git to Linux\
 Success, Now Trying GPG Signing\
 Now a Success with CMD git GPG.\
 Done...
+## ...................
+The time has come commander\
+Execute Order 66 !
