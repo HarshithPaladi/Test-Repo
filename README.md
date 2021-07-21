@@ -11,4 +11,4 @@ Currently working as expected.........
 ## Welcome From Linux 
 Trying to add git to Linux\
 Success, Now Trying GPG Signing\
-Success.
+Now a Success with CMD git GPG.\
