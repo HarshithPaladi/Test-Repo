@@ -13,6 +13,6 @@ def scope_test():
     do_nonlocal()
     print("after non local assignment:",spam)
     do_global()
-    print("afeter global assigbnmenrt:",spam)
+    print("after global assignment:",spam)
 scope_test()
 print("In the name of the Galactic senate","You are under arrest:", spam)
