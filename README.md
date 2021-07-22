@@ -9,3 +9,11 @@ All Tests succeded, gpg password cache is kept at 1 hour.\
 ### Update
 Currently working as expected.........
 Welcome
+## Welcome From Linux 
+Trying to add git to Linux\
+Success, Now Trying GPG Signing\
+Now a Success with CMD git GPG.\
+Done...
+## ...................
+The time has come commander\
+Execute Order 66 !
