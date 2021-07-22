@@ -1,7 +1,7 @@
 import random
 
 
-def Test():
+def test():
     a = 20
     b = 35
     c = random.random()
@@ -12,4 +12,4 @@ def Test():
 print("Hello World")
 print(True)
 print(1 - 4 + 5 / 2 * 6)
-Test()
+test()
