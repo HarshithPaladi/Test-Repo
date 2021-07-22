@@ -5,7 +5,7 @@ Hello There 😊
 Now it's a success
 ## Welcome to the new GPG Sign
 In Both CMD and VSCode\
-All Tests succeded, gpg password cache is kept at 1 hour.\
+All Tests succeded, gpg password cache is kept at 1 hour.
 ### Update
 Currently working as expected.........
 Welcome
@@ -14,6 +14,4 @@ Trying to add git to Linux\
 Success, Now Trying GPG Signing\
 Now a Success with CMD git GPG.\
 Done...
-## ...................
-The time has come commander\
-Execute Order 66 !
+
