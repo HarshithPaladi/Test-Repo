@@ -14,4 +14,4 @@ Trying to add git to Linux\
 Success, Now Trying GPG Signing\
 Now a Success with CMD git GPG.\
 Done...
-
+## Branching
