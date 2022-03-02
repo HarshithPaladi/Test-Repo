@@ -82,7 +82,7 @@ openssl x509 -req -sha256 -days 36500 -in cert.csr -CA ca.pem -CAkey ca-key.pem 
     ```
 1. Create a Certificate signing request
     ```bash
-    openssl req -new -key private-key.pem -out csr.csr
+    openssl req -new -key private-key.pem -out cert.csr
     ```
 1. Create an extfile.conf for the certificate parameters
     ```bash
